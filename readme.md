@@ -29,3 +29,13 @@ Am Eingang des Containers befindet sich ein Autoklav, eine Einheit zur Sterilisa
 Der Materialaustausch zwischen Autoklav und Labor findet über die Schleuse statt. Diese befindet sich im Innenraum und ist aus Aluprofilen konstruiert. Dieses Material bietet den Vorteil einer einfach standardisierbaren, effektiven Leichtbauweise nach dem Baukastenprinzip. Der Ständerbau wird anschließend mit Aludibondplatten verkleidet. Da sich im Inneren des Labors ein quasi-steriler Überdruck befindet, kann man die Schleuse betreten, ohne dass dabei kontaminierte Luft von außen in den Container eindringen kann. In der Schleuse wechselt man dann in zuvor nach Standard-Krankenhausprotokoll autoklavierte Kleidung und Überschuhe plus FFP1-Maske und desinfiziert sich die Hände. Nach diesem Protokoll kann das Labor betreten werden. Die Schleuse ist mit UV-Licht zur Sterilisation vor und nach dem Betreten und Arbeiten ausgestattet und verfügt außerdem über eine Materialschleuse in der Größe standardisierter Euro-Kisten, die ebenfalls mit UV-Licht gereinigt werden.
 
 Das Labor besteht in der Grundausstattung aus einem Arbeitstisch, einer sterilen Arbeitsbank (‚flowhood‘), einem Regal für Flüssigkulturen, einem Klimaschrank und den erforderlichen Utensilien (Petrischalen, Skalpelle, Mischgefäße etc.). Herzstück ist die sterile Arbeitsbank, die zweite Stufe der Sterilität, unter der Pilzkulturen vermehrt oder isoliert werden können. Wir verwenden aktuell ein chinesisches Fabrikat mit einem Meter Seitenlänge. Je nach individuellen Maßgaben und vorhandenem Material muss die Ausrichtung entsprechend angepasst werden. Der Klimaschrank dient der Lagerung verschiedener Kulturen, deren Gesamtheit die Mykothek des Labors ist. Je nach Anforderungen und Ambitionen, ist auch hier ein zweiter oder sogar ein dritter Schrank denkbar. Alle Oberflächen im Labor bestehen aus Edelstahl.
+
+## License
+
+This hardware documentation is licensed under CERN-OHL-P v2.
+
+You may redistribute and modify this documentation and make products using it 
+under the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl).
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, 
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A  PARTICULAR 
+PURPOSE. Please see the CERN-OHL-P v2 for applicable conditions
